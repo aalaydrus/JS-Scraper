@@ -1,10 +1,4 @@
-// A Web Scraper made with Node.JS and the framework puppeteer
-
-// Developed by: 
-// Syed Fadlie Chaidir Alaydrus
-// 101737192
-// Bachelor of Computer Science
-// Swinburne University of Technology
+//Web Scraping News
 
 const puppeteer = require('puppeteer');
 const fs = require('fs-extra');
