@@ -14,6 +14,11 @@ The project is done with Node.js along with the Puppeteer library and more.
 
 ## Development Goals
 
+### Interface & Front-End:
+- [x] Decide on front-end framework to implement initial GUI
+- [ ] Create a basic GUI
+
+
 ### Goals for each article scrape:
 - [x] Scrape URL
 - [ ] Scrape Date & Author's name
