@@ -45,3 +45,7 @@ Web scraping because #WhoNeedsAPIsBoiiiii
 - [x] MongoDB to accept JSON
 - [ ] Test Queries on MongoDB
 - [ ] Automate entries to MongoDB with Back-end script
+
+
+Credits & References: 
+optikalefx - https://plus.google.com/+optikalefxx
