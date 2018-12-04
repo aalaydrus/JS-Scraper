@@ -1,10 +1,5 @@
-// A Web Scraper made with Node.JS and the framework puppeteer
+// A Web Scraper made with Node.JS, puppeteer and other libraries
 
-// Developed by: 
-// Syed Fadlie Chaidir Alaydrus
-// 101737192
-// Bachelor of Computer Science
-// Swinburne University of Technology
 
 const puppeteer = require('puppeteer');
 const fs = require('fs-extra');
@@ -22,7 +17,7 @@ var csvFilePath = 'out.csv';
 		page.setUserAgent('Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36');
 		//act as a user agent to avoid bot detection
 
-		await page.goto('https://www.9news.com.au/melbourne'); 	//website for 9news Melbourne
+		await page.goto('SOME WEBSITE URL TO SCRAPE');
 
 		await fs.writeFile('out.csv', 'NewsTitle,NewsSummary,SentimentScore,SentiPositive,SentiNeg,NewsURL\n'); //(re)initialise CSV file output
 
