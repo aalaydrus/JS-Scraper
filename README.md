@@ -10,6 +10,7 @@ current affairs.
 
 The project is done with Node.js along with the Puppeteer library and more.
 
+Web scraping because #WhoNeedsAPIsBoiiiii
 
 
 ## Development Goals
