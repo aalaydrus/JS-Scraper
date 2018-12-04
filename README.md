@@ -8,6 +8,8 @@ based on the level of how positive or negative they are. Hoping that this will
 be of more fun and engaging way to improve the rate of teenage awareness in
 current affairs.
 
+NOTE: URL of the news website is removed from the source code (dont ask me why)
+
 The project is done with Node.js along with the Puppeteer library and more.
 
 Web scraping because #WhoNeedsAPIsBoiiiii
