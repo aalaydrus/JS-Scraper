@@ -47,5 +47,5 @@ Web scraping because #WhoNeedsAPIsBoiiiii
 - [ ] Automate entries to MongoDB with Back-end script
 
 
-Credits & References: 
+### Credits & References: 
 optikalefx - https://plus.google.com/+optikalefxx
